@@ -1,6 +1,6 @@
 (function($) {
 
-	var Defaults = $.fn.select2.amd.require('select2/defaults');
+  var Defaults = $.fn.select2.amd.require('select2/defaults');
   
   $.extend(Defaults.defaults, {
   	searchInputPlaceholder: ''
