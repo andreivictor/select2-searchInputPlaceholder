@@ -12,7 +12,7 @@ Demo available on [JsFiddle](http://jsfiddle.net/3k9xfdxo/).
 Initialize the select2 plugin with the `searchInputPlaceholder` option. 
 
 ```javascript
-$("input").autocomplete({
+$("select").select2({
     // options 
     searchInputPlaceholder: 'My custom placeholder...'
 });
